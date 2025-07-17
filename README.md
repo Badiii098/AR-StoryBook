@@ -22,10 +22,10 @@ This project aims to make storytelling more engaging, creative, and inclusive wh
 ---
 
 ## 📁 Project Structure
-- Assets
-- Library
+- Assets (NOT uploaded due to large size)
+- Library (NOT uploaded due to large size)
 - Logs
-- Packages
+- Packages (NOT uploaded due to large size)
 - ProjectSettings
 - QCAR
 - UserSettings
